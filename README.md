@@ -1,2 +1,2 @@
 # EDA-Project-03
-Data Analysis of Marathon in USA
+Exploratory Data Analysis of Marathons  in USA
